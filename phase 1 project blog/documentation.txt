@@ -1,0 +1,8 @@
+step 1:  Gathered information about our company 
+step 2:  Cretaed a rough website of home,about and contact using html and css
+step 3:  later added some js to above created website
+step 4:  Executed and took snaps 
+step 5:  commited to github via git 
+
+
+The platform used to develop blog is VSCode.
