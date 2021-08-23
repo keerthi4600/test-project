@@ -1,0 +1,7 @@
+step 1:  Gathered information about todo list what to be menationed
+step 2:  Cretaed a todo app using Node js, React js, Redux
+step 3:  Executed and took snaps 
+step 4:  commited to github via git 
+
+
+The platform used to develop todo app  is VSCode.
